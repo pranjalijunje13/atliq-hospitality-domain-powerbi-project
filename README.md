@@ -10,25 +10,6 @@ The dashboard transforms raw booking and revenue data into actionable business i
 
 ---
 
-## 📑 Table of Contents
-- [Project Overview](#-project-overview)
-- [Business Domain](#-business-domain)
-- [Business Objectives](#-business-objectives)
-- [Tools & Technologies](#-tools--technologies)
-- [Key Performance Indicators](#-key-performance-indicators-kpis)
-- [Dashboard Features](#-dashboard-features)
-- [Dashboard Preview](#-dashboard-preview)
-- [Live Dashboard](#-live-interactive-dashboard)
-- [Dataset](#-dataset)
-- [Key Business Insights](#-key-business-insights)
-- [Business Impact](#-business-impact)
-- [Skills Demonstrated](#-skills-demonstrated)
-- [Repository Structure](#-repository-structure)
-- [How to Use](#-how-to-use)
-- [Author](#-author)
-
----
-
 ## 📌 Project Overview
 
 The **Hospitality Analytics Dashboard** enables stakeholders to:
